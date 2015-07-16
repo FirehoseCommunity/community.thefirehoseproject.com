@@ -1,0 +1,14 @@
+# Site settings
+title: Firehose Chats
+email: colinrubbert@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The gathering place for all Firehosers to teach, chat, and develop a community that supports each other's growth.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: colinrubbert
+github_username:  colinrubbert
+
+# Build settings
+markdown: kramdown
+port: 3000
+host: 0.0.0.0
