@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Landing a Job After Graduating a Coding Bootcamps"
+subtitle:   "How to Handle the Job Search Process"
+date:       2015-07-16 12:00:00
+author:     "Ben Ricker"
+header-img: "img/post-bg-01.jpg"
+---
+
+## Background on Ben
+
+Ben graduated the Firehose Project coding bootcamp and became now is now a software engineer level 2 at Liaison International.
+
+Ben walks you through how the job search went for him, and how the approach he took.  He also explains what a typical day at work looks like.
+
+Ben is the undisputed [King of Pizza](http://kingof.pizza/) and does freelance work through [PugLab](https://github.com/BGRicker/puglab).  
+
+<!--
+{% include youtubePlayer.html id="o8FMMnw30BU" %}
+-->
