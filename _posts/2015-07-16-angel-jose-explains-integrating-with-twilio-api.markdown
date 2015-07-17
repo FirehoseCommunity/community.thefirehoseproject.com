@@ -18,3 +18,5 @@ Angel is active in the [CodeNewbie](http://codenewbie.org) community, and leads 
 <!--
 {% include youtubePlayer.html id="o8FMMnw30BU" %}
 -->
+
+Watch the full video [here](https://www.youtube.com/watch?v=t8_Im3rjMAs&index=1&list=PL2YbofhST_KwUpFU9TlQ6RNlqJp_A_f96).

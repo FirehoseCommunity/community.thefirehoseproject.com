@@ -12,3 +12,7 @@ header-img: "img/camera.png"
 Ken is the co-founder and a code mentor at the Firehose Project.
 
 He walks you through this silly ruby gem that you need to be using.
+
+
+
+Watch the full video [here](https://www.youtube.com/watch?v=t8_Im3rjMAs&index=1&list=PL2YbofhST_KwUpFU9TlQ6RNlqJp_A_f96).
