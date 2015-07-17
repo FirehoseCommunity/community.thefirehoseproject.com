@@ -4,7 +4,7 @@ title:      "Building a Native Mobile Experience by Sending Text Messages"
 subtitle:   "A 365 degree view of the Twilio API"
 date:       2015-07-16 12:00:00
 author:     "Angel Jose"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/phone.png"
 ---
 
 ## Background on Angel

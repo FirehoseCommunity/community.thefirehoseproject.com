@@ -4,7 +4,7 @@ title:      "Landing a Job After Graduating a Coding Bootcamps"
 subtitle:   "How to Handle the Job Search Process"
 date:       2015-07-16 12:00:00
 author:     "Ben Ricker"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/startup_office.png"
 ---
 
 ## Background on Ben

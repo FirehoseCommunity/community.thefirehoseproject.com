@@ -4,7 +4,7 @@ title:      "Jekyll - An Intro to the Number One Static Site Generator"
 subtitle:   "And why you need to be blogging on the Jekyll Platform"
 date:       2015-07-16 12:00:00
 author:     "Colin Rubbert"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/chem.png"
 ---
 
 ## Background on Colin
