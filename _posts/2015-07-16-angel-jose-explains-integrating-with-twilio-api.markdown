@@ -15,9 +15,7 @@ Angel talks about is expertise on the Twilio API and walks us through refactorin
 
 Angel is active in the [CodeNewbie](http://codenewbie.org) community, and leads their "Ruby Monday" Google Hangouts.  
 
-<!--
-{% include youtubePlayer.html id="o8FMMnw30BU" %}
--->
+{% include youtubePlayer.html id="720G7NZcruY" %}
 
 Watch the full video [here](https://www.youtube.com/watch?v=t8_Im3rjMAs&index=1&list=PL2YbofhST_KwUpFU9TlQ6RNlqJp_A_f96).
 

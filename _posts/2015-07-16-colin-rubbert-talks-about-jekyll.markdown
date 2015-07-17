@@ -13,9 +13,7 @@ Colin is currently attending the Firehose Project coding bootcamp and recently l
 
 You can read more about Colin's adventures in coding on his blog [here](http://www.colinrubbert.com/blog).
 
-<!--
-{% include youtubePlayer.html id="o8FMMnw30BU" %}
--->
+{% include youtubePlayer.html id="XoqQQe8Qq1k" %}
 
 
 Watch the full video [here](https://www.youtube.com/watch?v=t8_Im3rjMAs&index=1&list=PL2YbofhST_KwUpFU9TlQ6RNlqJp_A_f96).

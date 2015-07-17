@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Landing a Job After Graduating a Coding Bootcamps"
+title:      "Landing a Job After Graduating a Coding Bootcamp"
 subtitle:   "How to Handle the Job Search Process"
 date:       2015-07-16 12:00:00
 author:     "Ben Ricker"
@@ -15,8 +15,7 @@ Ben walks you through how the job search went for him, and how the approach he t
 
 Ben is the undisputed [King of Pizza](http://kingof.pizza/) and does freelance work through [PugLab](https://github.com/BGRicker/puglab).  
 
-<!--
-{% include youtubePlayer.html id="o8FMMnw30BU" %}
--->
+{% include youtubePlayer.html id="ZLJeYu_WrIQ" %}
+
 
 Watch the full video [here](https://www.youtube.com/watch?v=t8_Im3rjMAs&index=1&list=PL2YbofhST_KwUpFU9TlQ6RNlqJp_A_f96).
