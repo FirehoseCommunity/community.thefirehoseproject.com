@@ -20,3 +20,7 @@ Angel is active in the [CodeNewbie](http://codenewbie.org) community, and leads 
 -->
 
 Watch the full video [here](https://www.youtube.com/watch?v=t8_Im3rjMAs&index=1&list=PL2YbofhST_KwUpFU9TlQ6RNlqJp_A_f96).
+
+## Slides
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/oNRGJDyFzUiqXE" width="900" height="545" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
