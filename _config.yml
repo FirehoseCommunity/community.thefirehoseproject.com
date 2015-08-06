@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://community.thefirehoseproject.com" # the base hostname & protocol for your site
 twitter_username: FirehoseProject
 github_username:  FirehoseCommunity
-header-img: "img/home-bg.png"
+header-img: "img/home-bg.jpg"
 
 # Build settings
 markdown: kramdown
