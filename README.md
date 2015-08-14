@@ -26,43 +26,10 @@ Install the Jekyll Gem
 gem install jekyll
 ```
 
-Then update the binary (if you don't do this it will say command-not-found if you run `jeckyll` command):
+Then update the binary (if you don't do this it will say command-not-found if you run `jekyll` command):
 
 ```
 rbenv rehash
-```
-
-**Install Grunt**
-
-This uses a theme in Jekyll that requires `Grunt` which is an asset manager (kind of like the asset pipeline in rails, without rails).
-
-Grunt requires a bunch of steps to install it.
-
-You might have an old version of Node on your environment.  Run this command to remove it all together:
-
-```
-sudo apt-get remove node nodejs
-```
-
-Then installthe right `Node` on the machine:
-
-```
-sudo add-apt-repository ppa:chris-lea/node.js
-sudo apt-get update
-sudo apt-get install nodejs -y 
-
-```
-
-Then update `NPM`: 
-
-```
-npm update
-```
-
-Then install `Grunt`:
-
-```
-npm install grunt
 ```
 
 ### Running the blog
@@ -74,10 +41,6 @@ jekyll serve --host 0.0.0.0 --port 3000
 ```
 
 The first time you run this command it will take a while to get loaded up.
-
-
-
-This is based off [this](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll) theme.
 
 
 # Contributors
