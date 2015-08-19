@@ -243,6 +243,7 @@
 
 div.container-fluid.header-cancel {
   padding-right: 0px;
+  padding-left: 0px;
 }
 
 .navbar {
@@ -275,7 +276,7 @@ div.container-fluid.header-cancel {
    -moz-transition: color 800ms linear;
    -o-transition: color 800ms linear;
    -ms-transition: color 800ms linear;
-   transition: color 800ms linear;       
+   transition: color 800ms linear;
  }
 
  .navbar-default .navbar-nav>li>a {
@@ -289,7 +290,7 @@ div.container-fluid.header-cancel {
    -moz-transition: background-color 700ms linear;
    -o-transition: background-color 700ms linear;
    -ms-transition: background-color 700ms linear;
-   transition: background-color 700ms linear;     
+   transition: background-color 700ms linear;
  }
 
 .navbar-collapse {
