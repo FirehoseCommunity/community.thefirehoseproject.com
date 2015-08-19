@@ -16,6 +16,8 @@ Technical talks and coding related topics will be here!
 
 This blog is using Jekyll one of the most popular static site generation tools.  To understand the broad strokes of Jekyll watch [Colin's Talk on Jekyll](http://community.thefirehoseproject.com/2015/07/16/colin-rubbert-talks-about-jekyll.html).
 
+If you need help with get the blog up and running on your system read this [post](https://medium.com/@ffarooq00/firehose-community-webpage-bc2f0908bbcf).
+
 ### Installation on a Vagrant Ubuntu Machine
 
 **Install Jekyll**
