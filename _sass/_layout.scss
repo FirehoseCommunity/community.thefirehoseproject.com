@@ -241,8 +241,19 @@
 //  Custom Styling and Bootstrap Overrides
 ////////////////////////////////////////////
 
+div.container-fluid.header-cancel {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
 .navbar {
   height: 80px;
+}
+
+.navbar-brand {
+  height: 80px;
+  padding: 30px 0px;
+  font-size: 1.25em;
 }
 
 .navbar-brand {
@@ -259,17 +270,45 @@
   color: #000;
  }
 
+.navbar-default .navbar-brand:hover {
+  color: #2a7ae2;
+   -webkit-transition: color 800ms linear;
+   -moz-transition: color 800ms linear;
+   -o-transition: color 800ms linear;
+   -ms-transition: color 800ms linear;
+   transition: color 800ms linear;
+ }
+
  .navbar-default .navbar-nav>li>a {
    color: #000;
  }
 
- .navbar-right {
-   margin-top: 15px;
-   margin-right: 0px;
+ .navbar-default .navbar-nav>li>a:hover {
+   color: #2a7ae2;
+   background-color: #f1f1f1;
+   -webkit-transition: background-color 700ms linear;
+   -moz-transition: background-color 700ms linear;
+   -o-transition: background-color 700ms linear;
+   -ms-transition: background-color 700ms linear;
+   transition: background-color 700ms linear;
  }
+
+.navbar-collapse {
+  background-color: $background-color;
+}
+
+.navbar-nav {
+    margin: 7.5px 0px;
+}
+
+ .navbar-right {
+  margin-top: 15px;
+  margin-right: 15px;
+}
 
 .navbar-toggle {
   margin-top: 25px;
+  margin-right: 30px;
 }
 
 .navbar-collapse {
