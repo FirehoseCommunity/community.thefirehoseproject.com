@@ -388,3 +388,14 @@ article.post-content h1, h2, h3, h4, h5 {
   background-size: cover;
   -o-background-size: cover;
 }
+
+
+.comment-box {
+  -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
+  -webkit-box-shadow: 1px 1px 2px 0 #d0d0d0;
+  box-shadow: 1px 1px 2px 0 #d0d0d0;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
+  padding:10px;
+}
