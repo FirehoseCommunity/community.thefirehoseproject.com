@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Helpful Jekyll Resourse"
+title:      "Helpful Jekyll Resourses"
 subtitle:   "Start your own blog and remedy some common gotchas."
 date:       2015-07-31 09:00:00
 author:     "Colin Rubbert"
