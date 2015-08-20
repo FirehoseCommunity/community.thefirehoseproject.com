@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "How To Fork A Repo And Contribute"
+title:      "How to Fork a Repo and Contribute"
 subtitle:   "A how to guide for forking a github repo and contribute to an open source project."
 date:       2015-08-19 19:00:00
 author:     "Colin Rubbert"
