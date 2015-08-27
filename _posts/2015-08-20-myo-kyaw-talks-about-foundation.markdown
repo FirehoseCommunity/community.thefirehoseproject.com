@@ -11,7 +11,7 @@ header-img: "img/home-office2.jpg"
 
 Myo is an apprentice at the Firehose Project coding bootcamp. After mastering Twitter Bootstrap, he set out to learn Foundation and how to set it up with Ruby on Rails to be able to customize further in the way his apps look.
 
-{% include youtubePlayer.html id="XoqQQe8Qq1k" %}
+{% include youtubePlayer.html id="JRLTiVrr0Bo" %}
 
 
 Watch the full video [here](https://www.youtube.com/watch?v=JRLTiVrr0Bo).
