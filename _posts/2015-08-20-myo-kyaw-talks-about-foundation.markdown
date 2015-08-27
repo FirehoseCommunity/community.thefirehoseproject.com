@@ -14,7 +14,7 @@ Myo is an apprentice at the Firehose Project coding bootcamp. After mastering Tw
 {% include youtubePlayer.html id="JRLTiVrr0Bo" %}
 
 
-Watch the full video [here](https://www.youtube.com/watch?v=JRLTiVrr0Bo).
+Watch the full video [here](https://www.youtube.com/watch?v=fk7AQFLhFTE).
 
 ## Slides
 
