@@ -19,4 +19,4 @@ Watch the full video [here](https://www.youtube.com/watch?v=fk7AQFLhFTE).
 
 ## Slides
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/10nJJJbKvnAUUx" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/10nJJJbKvnAUUx" width="900" height="450" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
