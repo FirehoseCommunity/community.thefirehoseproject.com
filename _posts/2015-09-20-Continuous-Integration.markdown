@@ -12,7 +12,7 @@ Faisal is currently attending the Firehose Project coding bootcamp and learned a
 
 Say Hello to Faisal [here](http://www.twitter.com/ffarooq00).
 
-{% include youtubePlayer.html id="905fwucM-Kc" %}
+{% include youtubePlayer.html id="rQ8iLTFZyz0" %}
 
 Watch the full video [here](https://www.youtube.com/watch?v=905fwucM-Kc).
 
