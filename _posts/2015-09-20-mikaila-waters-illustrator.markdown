@@ -16,7 +16,7 @@ Mikaila walks you through the common tools she uses in Illustrator and how to cr
 {% include youtubePlayer.html id="8ZJZ0zjxGxk" %}
 
 
-Watch the full video [here](https://youtu.be/8ZJZ0zjxGxk).
+Watch the full video [here](https://youtu.be/rQ8iLTFZyz0).
 
 
 
