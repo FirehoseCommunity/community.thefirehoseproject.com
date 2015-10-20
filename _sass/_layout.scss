@@ -87,7 +87,13 @@
     }
 }
 
-
+.btn-contribute {
+  font-size: $base-font-size;
+  border-radius: 0px;
+  @include media-query($on-palm) {
+    margin-left: 15px;
+  }
+}
 
 /**
  * Site footer
@@ -388,7 +394,6 @@ article.post-content h1, h2, h3, h4, h5 {
   background-size: cover;
   -o-background-size: cover;
 }
-
 
 .comment-box {
   -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
