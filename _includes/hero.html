@@ -1,2 +1,36 @@
 <div class="hero img-responsive" style= "background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+ <!-- Only display call to action on Index -->
+ {% if page.is_index %} 
+	<script>
+    	$(function(){
+    	    $(".typed").typed({
+    	        strings: ["Career Changers", "Entrepreneurs", "Coders", "Awesome People", "Web Developers", "Firehosers"],
+    	        startDelay: 2000,
+    	        typeSpeed: 75,
+    	        backDelay: 1500,
+    	        backSpeed: 45,
+    	    });
+    	});
+	</script>
+	<div class="text-overlay">
+		<div class="text-box">
+			<div class="typed-row">
+				<div class="pull-left we-create">
+					<h1 class="title-typed">We are</h1>
+				</div>
+				<div class="pull-left typed-section"> 
+					<h1 class="title-typed"><span class="typed"></span></h1>
+				</div>
+			</div>
+			<br />
+			<br />
+			<div class="text-center">
+				<h4 class="text-typed">Accelerate your coding skills from 0 MPH to 120 MPH in 15 weeks of awesome.</h4>
+				<br />
+				<a href="http://www.thefirehoseproject.com"><button class="btn btn-primary">Learn More</button></a>&nbsp;
+				<a href="http://www.thefirehoseproject.com/applicants/new"><button class="btn btn-success">Get 2 Weeks Free</button></a>
+			</div>
+		</div>
+	</div>
+ {% endif %}
 </div>
