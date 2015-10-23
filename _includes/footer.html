@@ -2,6 +2,15 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <!-- Display on every page but Index -->
+              {% unless page.is_index %}
+              <div class="call-to-action-box">
+                <div class="call-to-action-text text-center">
+                  <a href="http://www.thefirehoseproject.com">Learn more about Firehose</a> or <a href="http://www.thefirehoseproject.com/applicants/new">Sign up to get 2 weeks free</a>
+                </div>
+              </div>
+              {% endunless %}
+
               <h3 class="text text-center">{{ site.description }}</h3>
                 <ul class="list-inline text-center">
                     <li>
