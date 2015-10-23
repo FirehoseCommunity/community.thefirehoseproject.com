@@ -89,7 +89,9 @@
 
 .btn-contribute {
   font-size: $base-font-size;
-  border-radius: 0px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000;
   @include media-query($on-palm) {
     margin-left: 15px;
   }
@@ -299,6 +301,12 @@ div.container-fluid.header-cancel {
    transition: background-color 700ms linear;
  }
 
+.navbar-default .navbar-nav a.btn-contribute:hover {
+  border-color: #2a7ae2;
+  background-color: #f1f1f1;
+ }
+
+
 .navbar-collapse {
   background-color: $background-color;
 }
@@ -315,10 +323,6 @@ div.container-fluid.header-cancel {
 .navbar-toggle {
   margin-top: 25px;
   margin-right: 30px;
-}
-
-.navbar-collapse {
-  background-color: $background-color;
 }
 
 .brand-img {
