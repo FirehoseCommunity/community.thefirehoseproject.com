@@ -90,10 +90,11 @@
 .btn-contribute {
   font-size: $base-font-size;
   border-style: solid;
-  border-width: 1px;
+  border-width: 2px;
   border-color: #000;
   @include media-query($on-palm) {
     margin-left: 15px;
+    text-align: center;
   }
 }
 
@@ -402,7 +403,7 @@ div.container-fluid.header-cancel {
 
 .navbar-default .navbar-nav a.btn-contribute:hover {
   border-color: #2a7ae2;
-  background-color: #f1f1f1;
+  background-color: $background-color;
  }
 
 
