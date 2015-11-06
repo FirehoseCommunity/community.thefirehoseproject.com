@@ -494,3 +494,8 @@ article.post-content h1, h2, h3, h4, h5 {
   border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
   padding:10px;
 }
+
+.dropdown-menu {
+    min-width: 160px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.4);
+}
