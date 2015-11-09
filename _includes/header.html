@@ -21,11 +21,7 @@
                 </li>
                 {% for page in site.pages %}{% if page.title %}
                 
-                
-                <!--About link commented out to avoid redundancy. Not sure if it breaks the loop. -->
-                <!--<li>-->
-                <!--    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>-->
-                <!--</li>-->
+
                 {% endif %}{% endfor %}
             
                 <li class="dropdown">
@@ -39,14 +35,7 @@
                         <li><a target="_blank" href="http://firehoselightning.herokuapp.com/">Lightning Talks</a></li>
                         <li><a href="/about">About</a></li>
                     </ul>
-                </li>   
-
-            <!--Need to replace this with dropdown.  Probably clone the one from the lightning page.  -->
-            <!--http://firehoselightning.herokuapp.com/-->
-                <!-- <li>-->
-                <!--    <a href="http://www.thefirehoseproject.com">theFirehoseProject</a>-->
-                <!--</li>-->
-
+                </li>
 
             </ul>
         </div>
