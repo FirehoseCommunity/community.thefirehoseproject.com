@@ -87,6 +87,18 @@
     }
 }
 
+.btn-contribute {
+  font-size: $base-font-size;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #000;
+  @include media-query($on-palm) {
+    margin-left: 15px;
+    text-align: center;
+  }
+}
+
+
 /**
  * Site footer
  */
@@ -389,6 +401,12 @@ div.container-fluid.header-cancel {
    transition: background-color 700ms linear;
  }
 
+.navbar-default .navbar-nav a.btn-contribute:hover {
+  border-color: #2a7ae2;
+  background-color: $background-color;
+ }
+
+
 .navbar-collapse {
   background-color: $background-color;
 }
@@ -405,10 +423,6 @@ div.container-fluid.header-cancel {
 .navbar-toggle {
   margin-top: 25px;
   margin-right: 30px;
-}
-
-.navbar-collapse {
-  background-color: $background-color;
 }
 
 .brand-img {
