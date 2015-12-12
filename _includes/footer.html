@@ -12,6 +12,7 @@
               {% endunless %}
 
               <h3 class="text text-center">{{ site.description }}</h3>
+              <h5 class="text text-center">{% include mailchimp.html %}</h5>
                 <ul class="list-inline text-center">
                     <li>
                         <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
