@@ -1,0 +1,10 @@
+---
+layout:     post
+title:      "test"
+subtitle:   "test"
+date:       2016-04-04 12:00:00
+author:     "Brandon"
+header-img: "img/phone.png"
+---
+
+#This is test
