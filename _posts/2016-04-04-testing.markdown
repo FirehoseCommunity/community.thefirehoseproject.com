@@ -1,0 +1,10 @@
+---
+layout:     post
+title:      "testing"
+subtitle:   "testing"
+date:       2016-04-04 12:00:00
+author:     "Brandon Cha"
+header-img: "img/phone.png"
+---
+
+#This is test 2
